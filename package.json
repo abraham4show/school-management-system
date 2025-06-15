@@ -1,0 +1,27 @@
+{
+  "name": "schollapiproject",
+  "version": "1.0.0",
+  "discription": "Scholl Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [
+    "lms",
+    "node.js"
+  ],
+  "author": "Lagos State University",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.0",
+    "morgan": "^1.10.0",
+    "status-codes": "^0.0.1"
+  }
+}

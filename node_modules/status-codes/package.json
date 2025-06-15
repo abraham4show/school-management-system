@@ -1,0 +1,26 @@
+{
+  "name": "status-codes",
+  "version": "0.0.1",
+  "description": "Return HTTP Status Codes with name and message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/labithiotis/status-codes"
+  },
+  "keywords": [
+    "http",
+    "status",
+    "code",
+    "error",
+    "statuscodes"
+  ],
+  "author": "Darren Labithiotis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/labithiotis/status-codes/issues"
+  },
+  "homepage": "https://github.com/labithiotis/status-codes"
+}
